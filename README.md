@@ -25,7 +25,7 @@ The project highlights customer satisfaction trends, service quality, and areas 
 2. **Cabin Class Comparison** – Economy vs Business vs First.  
 3. **Route-wise Insights** – Identify which routes perform better or worse.  
 4. **Feature Ratings** – Breakdown by food, service, seat comfort, entertainment.  
-5. **Interactive Filters** – Let users drill down into time, route, or class.  
+5. **Interactive Filters** – Let users drill down into time, route or class.  
 
 ---
 
