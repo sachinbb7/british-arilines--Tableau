@@ -1,4 +1,4 @@
-# ✈️ British Airways Review Analysis – Tableau Dashboard
+# ✈️ British Airways Review Analysis –- Tableau Dashboard
 
 This repository contains a **Tableau dashboard** analyzing **British Airways customer reviews**.  
 The project highlights customer satisfaction trends, service quality, and areas for improvement using real-world airline review data.
